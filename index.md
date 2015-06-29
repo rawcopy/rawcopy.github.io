@@ -3,4 +3,4 @@ layout: default
 title:  'Welcome'
 ---
 
-[hej hej](about)
+[hej hej](testing)
