@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  'install'
+title:  'How to'
 ---
 
 #How to 
