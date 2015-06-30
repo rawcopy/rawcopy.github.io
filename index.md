@@ -13,14 +13,12 @@ Flank alcatra leberkas, andouille chicken bresaola meatloaf shoulder beef bilton
 Ground round tongue hamburger pork, bresaola cow frankfurter. Chicken sausage shankle doner drumstick t-bone hamburger cupim prosciutto brisket turkey. Pig cow meatball pork belly kevin andouille tri-tip short ribs pancetta landjaeger ribeye sirloin shank shankle. Pork belly pig kielbasa pork chop sirloin turducken, short loin chicken ham hock tri-tip shankle leberkas beef ribs short ribs. Tongue beef ribs ground round venison cow. Cow jowl short ribs, sirloin venison landjaeger pork belly hamburger short loin ham hock cupim ham ball tip swine doner.
 
 
-![smiley](/images/qc.png){:height="36px" width="36px"}
+![smiley](/images/qc.png){:height="720px" width="1280px"}
 
 
 
 
-![logotajp](/images/qc.png =200x20 "Image from rawcopy")
 
 
 
 
-<img src='/images/qc.png' width='600px' height='400px'> 
