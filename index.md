@@ -22,7 +22,9 @@ Minim adipisicing corned beef, flank nostrud kielbasa chicken fatback cow incidi
 Tongue ham hock excepteur shankle est veniam quis turducken cupidatat pork boudin spare ribs. Elit cupim ut et pork chop frankfurter. Incididunt velit mollit id flank pork in nulla tail. Sirloin leberkas anim, pork chop deserunt rump culpa officia veniam. Pariatur reprehenderit incididunt, chicken quis culpa flank. Ham shoulder fatback proident bresaola, esse eiusmod sed officia pancetta in deserunt ad sint.
 
 <p align="center">
+<a href='/images/qc.png'> 
 <img src='/images/qc.png' height="425.641px" width="600px">
+</a>
 </p>
 
 
