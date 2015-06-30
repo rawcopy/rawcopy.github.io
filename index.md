@@ -19,4 +19,8 @@ Ground round tongue hamburger pork, bresaola cow frankfurter. Chicken sausage sh
 
 
 ![logotajp](/images/qc.png =200x20 "Image from rawcopy")
+
+
+
+
 <img src='/images/qc.png' width='600px' height='400px'> 
