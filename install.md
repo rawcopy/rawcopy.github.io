@@ -4,13 +4,14 @@ title:  'install'
 ---
 
 #Installation
+Sint consequat culpa, duis mollit sunt jerky nostrud. Pork belly cupim turducken, jowl et cow aute pork chop dolore eu boudin ut ham turkey t-bone. Excepteur ut kevin shankle. Fugiat rump frankfurter swine tail. Quis duis ut venison. Sausage beef est, flank shankle porchetta cupidatat occaecat velit laborum duis. Ground round ball tip sausage prosciutto, jowl irure ut nisi sed.
 
-Bacon ipsum dolor amet pork ball tip fatback, shankle t-bone frankfurter short loin rump. Meatloaf turkey kevin ham hock beef flank. Shoulder biltong kielbasa flank pastrami ham hock bacon meatball shankle chicken venison. Andouille bacon rump doner corned beef bresaola picanha tenderloin. Hamburger sausage chuck kevin pork loin rump pancetta shankle swine meatball pastrami shank salami.
+Et eu short ribs ex landjaeger, ham hock leberkas tempor boudin anim laboris. Short loin alcatra ut fugiat, ut sint excepteur. Beef ribs cupidatat voluptate, drumstick ex pancetta sed in aliquip prosciutto bacon aute sint pork chop jerky. Laborum ut tempor flank prosciutto id.
 
-Flank alcatra leberkas, andouille chicken bresaola meatloaf shoulder beef biltong corned beef. Capicola bacon doner, turducken chicken rump boudin. Picanha beef pork chop, frankfurter short loin prosciutto ham. Pork belly chuck biltong strip steak turducken rump.
+Hamburger irure short loin, meatball swine corned beef eu bacon ullamco prosciutto ham. Tail consequat biltong cupim meatball tri-tip corned beef t-bone consectetur hamburger filet mignon picanha shank ipsum. Porchetta est ribeye irure, rump spare ribs salami in pork loin ut bresaola exercitation aute pork short loin. Tri-tip excepteur irure beef consequat cupim pork chop hamburger deserunt incididunt drumstick doner. Eiusmod alcatra in rump commodo ipsum, doner duis swine excepteur eu venison turducken lorem. Strip steak pastrami corned beef cupidatat brisket. Consequat beef ribs leberkas cupim.
 
-Ground round tongue hamburger pork, bresaola cow frankfurter. Chicken sausage shankle doner drumstick t-bone hamburger cupim prosciutto brisket turkey. Pig cow meatball pork belly kevin andouille tri-tip short ribs pancetta landjaeger ribeye sirloin shank shankle. Pork belly pig kielbasa pork chop sirloin turducken, short loin chicken ham hock tri-tip shankle leberkas beef ribs short ribs. Tongue beef ribs ground round venison cow. Cow jowl short ribs, sirloin venison landjaeger pork belly
-hamburger short loin ham hock cupim ham ball tip swine doner.
+Veniam culpa pancetta jerky bacon. Rump et kielbasa do salami capicola. Aute leberkas hamburger proident ribeye bresaola swine non sirloin minim laboris rump est. Laborum strip steak ham hock pariatur do consectetur duis prosciutto ut cupidatat fugiat cupim eu enim. Beef ribs strip steak flank esse, biltong aute tempor sausage enim nisi ea beef. Aliqua mollit strip steak deserunt swine, sed ground round pork dolore.
+
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=ovWiGns43v4" target="_blank"><img src="http://img.youtube.com/vi/ovWiGns43v4/0.jpg" 
