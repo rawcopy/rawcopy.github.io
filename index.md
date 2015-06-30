@@ -28,6 +28,11 @@ Tongue ham hock excepteur shankle est veniam quis turducken cupidatat pork boudi
 </p>
 
 
+<p align="center">
+<a href='/images/distogram.png'> 
+<img src='/images/distogram.png' height="600px" width="600px">
+</a>
+</p>
 
 
 
