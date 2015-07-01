@@ -18,7 +18,7 @@ Björn Viklund<br>
 <p>
 <a href="http://www.medsci.uu.se/platforms/Array+and+Analysis+Facility/?languageId=1">Array & Analysis Facility</a> <br>
 Science for Life Laboratory <br>
-Uppsala University, Sweden <br
+Uppsala University, Sweden
 </p>
 
 
