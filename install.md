@@ -8,7 +8,7 @@ title:  'install'
 Rawcopy dependencies:
 
 Java:
-Download and install Java SE Runtime Environment 7
+Download and install 
 <a href="http://www.oracle.com/technetwork/java/javase/downloads/jre7-downloads-1880261.html">
 Java SE Runtime Environment 7</a>
 
