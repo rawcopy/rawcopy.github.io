@@ -51,7 +51,7 @@ When running on windows you may get these warnings messages:
 
 
 
-<p align="center">
+<p align="left">
 <a href="https://www.youtube.com/watch?v=ovWiGns43v4" target="_blank"><img src="http://img.youtube.com/vi/ovWiGns43v4/0.jpg" 
 alt="Youtube instructions" width="480" height="360" border="5" /></a>
 </p>
