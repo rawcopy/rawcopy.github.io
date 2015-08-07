@@ -24,12 +24,15 @@ biocLite("DNAcopy")
 http://www.bioconductor.org/packages/release/bioc/html/affxparser.html
 http://www.bioconductor.org/packages/release/bioc/html/DNAcopy.html
 
+```R
 install.packages('Path to directory/affxparser_1.38.0.tar.gz,type='source',repos=NULL)
 install.packages('Path to directory/DNAcopy_1.40.0.tar.gz,type='source',repos=NULL)
+```
 
-
+```R
 R-code from cran:
 install.packages(c('foreach','xlsx','PSCBS','squash','digest'))
+```
 
 
 Rawcopy installation
