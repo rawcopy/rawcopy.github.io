@@ -20,7 +20,7 @@ biocLite("affxparser")
 biocLite("DNAcopy")
 ```
 
-If biocLite doesn't work, the Package Source files have to be downloaded and installed manually from
+If biocLite doesn't work, the Package Source files have to be downloaded and installed manually from:
 http://www.bioconductor.org/packages/release/bioc/html/affxparser.html
 http://www.bioconductor.org/packages/release/bioc/html/DNAcopy.html
 
