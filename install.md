@@ -12,7 +12,7 @@ Hamburger irure short loin, meatball swine corned beef eu bacon ullamco prosciut
 
 Veniam culpa pancetta jerky bacon. Rump et kielbasa do salami capicola. Aute leberkas hamburger proident ribeye bresaola swine non sirloin minim laboris rump est. Laborum strip steak ham hock pariatur do consectetur duis prosciutto ut cupidatat fugiat cupim eu enim. Beef ribs strip steak flank esse, biltong aute tempor sausage enim nisi ea beef. Aliqua mollit strip steak deserunt swine, sed ground round pork dolore.
 
-```R
+```Bash
 s = "Python syntax highlighting"
 print s
 ```
