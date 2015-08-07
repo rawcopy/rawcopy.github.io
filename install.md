@@ -41,8 +41,9 @@ When running on windows you may get these warnings messages:
 
 
 ```R
-install.packages('rawcopy')
-library(rawcopy)
+source("http://bioconductor.org/biocLite.R")
+biocLite("affxparser")
+biocLite("DNAcopy")
 ```
 
 
