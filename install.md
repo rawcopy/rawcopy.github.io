@@ -12,6 +12,22 @@ Hamburger irure short loin, meatball swine corned beef eu bacon ullamco prosciut
 
 Veniam culpa pancetta jerky bacon. Rump et kielbasa do salami capicola. Aute leberkas hamburger proident ribeye bresaola swine non sirloin minim laboris rump est. Laborum strip steak ham hock pariatur do consectetur duis prosciutto ut cupidatat fugiat cupim eu enim. Beef ribs strip steak flank esse, biltong aute tempor sausage enim nisi ea beef. Aliqua mollit strip steak deserunt swine, sed ground round pork dolore.
 
+Colons can be used to align columns.
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+The outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
+
 ```R
 install.packages('rawcopy')
 library(rawcopy)
@@ -30,20 +46,6 @@ print s
 No language indicated, so no syntax highlighting. 
 But let's throw in a <b>tag</b>.
 ```
-Colons can be used to align columns.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-The outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
 
 
 <p align="center">
