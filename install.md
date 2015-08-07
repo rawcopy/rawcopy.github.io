@@ -13,7 +13,6 @@ http://www.oracle.com/technetwork/java/javase/downloads/jre7-downloads-1880261.h
 
 
 R-code from Bioconductor:
-Try
 
 ```R
 source("http://bioconductor.org/biocLite.R")
@@ -21,7 +20,7 @@ biocLite("affxparser")
 biocLite("DNAcopy")
 ```
 
-If biocLite doesn't work, the Package Source files have to be downloaded and installed manually from:
+**If** biocLite doesn't work, the Package Source files have to be downloaded and installed manually from:
 http://www.bioconductor.org/packages/release/bioc/html/affxparser.html
 http://www.bioconductor.org/packages/release/bioc/html/DNAcopy.html
 
