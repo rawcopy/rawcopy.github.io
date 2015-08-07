@@ -21,8 +21,8 @@ biocLite("DNAcopy")
 ```
 
 **If** biocLite doesn't work, the Package Source files have to be downloaded and installed manually from:
-http://www.bioconductor.org/packages/release/bioc/html/affxparser.html
-http://www.bioconductor.org/packages/release/bioc/html/DNAcopy.html
+<a href="http://www.bioconductor.org/packages/release/bioc/html/affxparser.html">http://www.bioconductor.org/packages/release/bioc/html/affxparser.html</a>
+<a href="http://www.bioconductor.org/packages/release/bioc/html/DNAcopy.html">http://www.bioconductor.org/packages/release/bioc/html/DNAcopy.html</a>
 
 ```R
 install.packages('Path/affxparser_1.38.0.tar.gz,type='source',repos=NULL)
