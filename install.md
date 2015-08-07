@@ -10,7 +10,7 @@ Rawcopy dependencies:
 Java:
 Download and install Java SE Runtime Environment 7
 <a href="http://www.oracle.com/technetwork/java/javase/downloads/jre7-downloads-1880261.html">
-http://www.oracle.com/technetwork/java/javase/downloads/jre7-downloads-1880261.html</a>
+Java SE Runtime Environment 7</a>
 
 
 R-code from Bioconductor:
