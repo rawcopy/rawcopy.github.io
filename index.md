@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  'rawcopy'
+title:  'Home'
 ---
 
 #Rawcopy
