@@ -29,14 +29,16 @@ install.packages('Path to directory/affxparser_1.38.0.tar.gz,type='source',repos
 install.packages('Path to directory/DNAcopy_1.40.0.tar.gz,type='source',repos=NULL)
 ```
 
-```R
 R-code from cran:
+
+```R
 install.packages(c('foreach','xlsx','PSCBS','squash','digest'))
 ```
 
-
-Rawcopy installation
+Rawcopy installation:
+```R
 install.packages('Path to directory/rawcopy_1.0.tar.gz',type='source',repos=NULL)
+```
 
 
 When running on windows you may get these warnings messages:
