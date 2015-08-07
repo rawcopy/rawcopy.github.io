@@ -4,34 +4,6 @@ title:  'install'
 ---
 
 #Installation
-Sint consequat culpa, duis mollit sunt jerky nostrud. Pork belly cupim turducken, jowl et cow aute pork chop dolore eu boudin ut ham turkey t-bone. Excepteur ut kevin shankle. Fugiat rump frankfurter swine tail. Quis duis ut venison. Sausage beef est, flank shankle porchetta cupidatat occaecat velit laborum duis. Ground round ball tip sausage prosciutto, jowl irure ut nisi sed.
-
-Et eu short ribs ex landjaeger, ham hock leberkas tempor boudin anim laboris. Short loin alcatra ut fugiat, ut sint excepteur. Beef ribs cupidatat voluptate, drumstick ex pancetta sed in aliquip prosciutto bacon aute sint pork chop jerky. Laborum ut tempor flank prosciutto id.
-
-Hamburger irure short loin, meatball swine corned beef eu bacon ullamco prosciutto ham. Tail consequat biltong cupim meatball tri-tip corned beef t-bone consectetur hamburger filet mignon picanha shank ipsum. Porchetta est ribeye irure, rump spare ribs salami in pork loin ut bresaola exercitation aute pork short loin. Tri-tip excepteur irure beef consequat cupim pork chop hamburger deserunt incididunt drumstick doner. Eiusmod alcatra in rump commodo ipsum, doner duis swine excepteur eu venison turducken lorem. Strip steak pastrami corned beef cupidatat brisket. Consequat beef ribs leberkas cupim.
-
-Veniam culpa pancetta jerky bacon. Rump et kielbasa do salami capicola. Aute leberkas hamburger proident ribeye bresaola swine non sirloin minim laboris rump est. Laborum strip steak ham hock pariatur do consectetur duis prosciutto ut cupidatat fugiat cupim eu enim. Beef ribs strip steak flank esse, biltong aute tempor sausage enim nisi ea beef. Aliqua mollit strip steak deserunt swine, sed ground round pork dolore.
-
-{% highlight python %}
-def yourfunction():
-     print "Hello World!"
-{% endhighlight %}
-
-Colons can be used to align columns.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-The outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
 
 ```R
 install.packages('rawcopy')
