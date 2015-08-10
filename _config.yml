@@ -9,8 +9,8 @@ title: 'rawcopy'
 # more settings
 
 #markdown: kramdown
-markdown: redcarpet
-pygments: true
+#markdown: redcarpet
+#pygments: true
 
 sass:
   sass_dir: css
