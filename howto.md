@@ -5,12 +5,29 @@ title:  'How to'
 
 #How to 
 
+Load the package:
+
 ```R
 library(rawcopy)
-rawcopy(CELfiles.or.directory = 'Path')
 ```
 
+Run samples in a directory
 
+```R
+rawcopy(CELfiles.or.directory = 'Path to directory')
+```
+
+Run a specfic sample
+
+```R
+rawcopy(CELfiles.or.directory = 'Path to directory/celFile.CEL')
+```
+
+Run on samples in a directory on multiple cores
+
+```R
+rawcopy(CELfiles.or.directory = 'Path to directory',cores=8)
+```
 
 
 Quis cillum ullamco ad duis meatball. Elit ex enim tail. Id nostrud velit kevin anim quis tempor. Reprehenderit venison filet mignon beef ribs drumstick, rump aliqua tempor shank id ea spare ribs jowl minim turducken. Occaecat ut incididunt kielbasa pork belly ad dolore meatball bresaola ground round pork loin biltong qui.
