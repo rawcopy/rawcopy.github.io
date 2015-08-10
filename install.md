@@ -41,7 +41,7 @@ install.packages(c('foreach','xlsx','PSCBS','squash','digest'))
 ###Rawcopy installation:
 
 ```R
-install.packages('Path to directory/rawcopy_1.0.tar.gz',type='source',repos=NULL)
+install.packages('Path/rawcopy_1.0.tar.gz',type='source',repos=NULL)
 ```
 
 
