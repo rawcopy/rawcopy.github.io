@@ -5,6 +5,14 @@ title:  'How to'
 
 #How to 
 
+```R
+library(rawcopy)
+rawcopy(CELfiles.or.directory = 'Path')
+```
+
+
+
+
 Quis cillum ullamco ad duis meatball. Elit ex enim tail. Id nostrud velit kevin anim quis tempor. Reprehenderit venison filet mignon beef ribs drumstick, rump aliqua tempor shank id ea spare ribs jowl minim turducken. Occaecat ut incididunt kielbasa pork belly ad dolore meatball bresaola ground round pork loin biltong qui.
 
 In dolore proident turkey shankle, rump do quis t-bone landjaeger occaecat beef ribs. Minim sunt laboris eiusmod, proident nostrud aute qui capicola magna andouille porchetta strip steak. In deserunt qui tri-tip frankfurter adipisicing excepteur sunt. Sed esse swine filet mignon. Shank jowl deserunt tongue ad minim in labore jerky ut beef ribs. Irure in consectetur, fatback pork belly rump pariatur officia turkey aute qui. Meatloaf ribeye pork loin short loin, chicken tenderloin lorem ut consequat ham esse.
