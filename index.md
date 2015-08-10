@@ -23,11 +23,9 @@ Tongue ham hock excepteur shankle est veniam quis turducken cupidatat pork boudi
 
 
 ### Qc-plot
-<p align="center">
 <a href='/images/qc.png'> 
 <img src='/images/qc.png' width="400px">
 </a>
-</p>
 
 
 ### Distogram
