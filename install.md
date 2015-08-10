@@ -28,8 +28,8 @@ biocLite("DNAcopy")
 
 
 ```R
-install.packages('Path/affxparser_1.38.0.tar.gz,type='source',repos=NULL)
-install.packages('Path/DNAcopy_1.40.0.tar.gz,type='source',repos=NULL)
+install.packages('Path/affxparser_1.38.0.tar.gz',type='source',repos=NULL)
+install.packages('Path/DNAcopy_1.40.0.tar.gz',type='source',repos=NULL)
 ```
 
 R-code from cran:
