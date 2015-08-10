@@ -49,7 +49,7 @@ When running on windows you may get these warnings messages:
 
 1. package ‘foreach’ was built under R version 3.1.2
 2. package ‘PSCBS’ was built under R version 3.1.2
-3. executing %dopar% sequentially: no parallel backend registered
+3. executing %dopar% sequentially: no parallel backend registered  
 
 
 
