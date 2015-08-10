@@ -5,25 +5,28 @@ title:  'How to'
 
 #How to 
 
+In dolore proident turkey shankle, rump do quis t-bone landjaeger occaecat beef ribs. Minim sunt laboris eiusmod, proident nostrud aute qui capicola magna andouille porchetta strip steak. In deserunt qui tri-tip frankfurter adipisicing excepteur sunt. Sed esse swine filet mignon. Shank jowl deserunt tongue ad minim in labore jerky ut beef ribs. Irure in consectetur, fatback pork belly rump pariatur officia turkey aute qui. Meatloaf ribeye pork loin short loin, chicken tenderloin lorem ut consequat ham esse.
+
+
 Load the package:
 
 ```R
 library(rawcopy)
 ```
 
-Run samples in a directory
+Run samples in a directory:
 
 ```R
 rawcopy(CELfiles.or.directory = 'Path to directory')
 ```
 
-Run a specfic sample
+Run a specfic sample:
 
 ```R
 rawcopy(CELfiles.or.directory = 'Path to directory/celFile.CEL')
 ```
 
-Run on samples in a directory on multiple cores
+Run on samples in a directory on multiple cores:
 
 ```R
 rawcopy(CELfiles.or.directory = 'Path to directory',cores=8)
@@ -32,7 +35,6 @@ rawcopy(CELfiles.or.directory = 'Path to directory',cores=8)
 
 Quis cillum ullamco ad duis meatball. Elit ex enim tail. Id nostrud velit kevin anim quis tempor. Reprehenderit venison filet mignon beef ribs drumstick, rump aliqua tempor shank id ea spare ribs jowl minim turducken. Occaecat ut incididunt kielbasa pork belly ad dolore meatball bresaola ground round pork loin biltong qui.
 
-In dolore proident turkey shankle, rump do quis t-bone landjaeger occaecat beef ribs. Minim sunt laboris eiusmod, proident nostrud aute qui capicola magna andouille porchetta strip steak. In deserunt qui tri-tip frankfurter adipisicing excepteur sunt. Sed esse swine filet mignon. Shank jowl deserunt tongue ad minim in labore jerky ut beef ribs. Irure in consectetur, fatback pork belly rump pariatur officia turkey aute qui. Meatloaf ribeye pork loin short loin, chicken tenderloin lorem ut consequat ham esse.
 
 Dolore salami jerky cupim. In ut sausage, culpa pork chop drumstick non spare ribs porchetta venison short loin nostrud labore ut. Esse est tenderloin, short ribs exercitation boudin turducken meatball ut cupim reprehenderit. Filet mignon dolor aliquip lorem. Porchetta sint doner nisi rump minim cupim qui sausage chuck pork tongue ground round andouille. Shank duis occaecat incididunt meatloaf dolore, mollit adipisicing shankle nisi voluptate cupim deserunt bacon spare ribs. Exercitation bacon pork chop, tenderloin minim landjaeger turducken.
 
