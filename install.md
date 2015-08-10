@@ -23,9 +23,8 @@ biocLite("DNAcopy")
 
 **If** biocLite doesn't work, the Package Source files have to be downloaded and installed manually from:
 
-<a href="http://www.bioconductor.org/packages/release/bioc/html/affxparser.html">http://www.bioconductor.org/packages/release/bioc/html/affxparser.html</a>
-...
-<a href="http://www.bioconductor.org/packages/release/bioc/html/DNAcopy.html">http://www.bioconductor.org/packages/release/bioc/html/DNAcopy.html</a>
+http://www.bioconductor.org/packages/release/bioc/html/affxparser.html
+http://www.bioconductor.org/packages/release/bioc/html/DNAcopy.html"
 
 
 ```R
