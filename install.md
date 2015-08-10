@@ -38,7 +38,7 @@ R-code from cran:
 install.packages(c('foreach','xlsx','PSCBS','squash','digest'))
 ```
 
-Rawcopy installation:
+###Rawcopy installation:
 
 ```R
 install.packages('Path to directory/rawcopy_1.0.tar.gz',type='source',repos=NULL)
