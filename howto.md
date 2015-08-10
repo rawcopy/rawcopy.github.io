@@ -26,7 +26,7 @@ Run a specfic sample:
 rawcopy(CELfiles.or.directory = 'Path to directory/celFile.CEL')
 ```
 
-Run on samples in a directory on multiple cores:
+Run samples in a directory on multiple cores:
 
 ```R
 rawcopy(CELfiles.or.directory = 'Path to directory',cores=8)
