@@ -41,7 +41,7 @@ install.packages(c('foreach','xlsx','PSCBS','squash','digest'))
 ###Rawcopy installation:
 
 ```R
-install.packages('rawcopy',repos=c('http://array.medsci.uu.se/R'),type='source')
+install.packages('rawcopy',repos='http://array.medsci.uu.se/R',type='source')
 ```
 
 
