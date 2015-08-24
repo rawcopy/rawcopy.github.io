@@ -6,6 +6,10 @@ title:  'install'
 #Installation
 
 ###Rawcopy dependencies:
+R:
+Rawcopy is an R-package, download and install the development version of R (r-base-dev).
+https://cran.r-project.org/
+<a href='https://cran.r-project.org/'>https://cran.r-project.org/</a> 
 
 Java:
 Download and install 
@@ -35,7 +39,7 @@ install.packages('Path/DNAcopy_1.40.0.tar.gz',type='source',repos=NULL)
 R-code from cran:
 
 ```R
-install.packages(c('foreach','xlsx','PSCBS','squash','digest','ape'))
+install.packages(c('foreach','doMC','PSCBS','squash','digest','ape'))
 ```
 
 ###Rawcopy installation:
