@@ -36,7 +36,7 @@ install.packages('Path/DNAcopy_1.40.0.tar.gz',type='source',repos=NULL)
 install.packages(c('foreach','doMC','PSCBS','squash','digest','ape'))
 ```
 
-**If** PSCBS doesn't work, the package source files have to be downloaded and installed manually from:
+**If** PSCBS doesn't work, the package source files have to be downloaded and installed manually from:  
 <a href='https://cran.r-project.org/src/contrib/Archive/PSCBS/PSCBS_0.43.0.tar.gz'>https://cran.r-project.org/src/contrib/Archive/PSCBS/PSCBS_0.43.0.tar.gz</a> 
 
 ```R
@@ -45,7 +45,7 @@ install.packages('Path/PSCBS_0.43.0.tar.gz',repos=NULL,type='source')
 ```
 
 
-#####Rawcopy installation:
+####Rawcopy installation:
 
 ```R
 install.packages('rawcopy',repos='http://array.medsci.uu.se/R',type='source')
