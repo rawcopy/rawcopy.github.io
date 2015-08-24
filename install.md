@@ -10,11 +10,6 @@ R:
 Rawcopy is an R-package, download and install the development version of R (r-base-dev).  
 <a href='https://cran.r-project.org/'>https://cran.r-project.org/</a> 
 
-Java:
-Download and install 
-<a href="http://www.oracle.com/technetwork/java/javase/downloads/jre7-downloads-1880261.html">
-Java SE Runtime Environment 7</a>
-
 
 R-code from Bioconductor:
 
