@@ -26,8 +26,8 @@ Rawcopy is an R package for processing of Affymetrix CytoScan HD, CytoScan 750k 
 
 
 ### Distogram
-<a href='/images/sampleIdentityDistogram.pdf'> 
-<img src='/images/sampleIdentityDistogram.pdf'  width="400px">
+<a href='/images/sampleIdentityDistogram.png'> 
+<img src='/images/sampleIdentityDistogram.png'  width="400px">
 </a>
 
 
