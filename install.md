@@ -33,7 +33,7 @@ install.packages('Path/DNAcopy_1.40.0.tar.gz',type='source',repos=NULL)
 #####R-code from cran:
 
 ```R
-install.packages(c('foreach','doMC','PSCBS','squash','digest','ape'))
+install.packages(c('foreach','doMC','PSCBS','squash','digest','ape','SDMTools'))
 ```
 
 **If** PSCBS doesn't work, the package source files have to be downloaded and installed manually from:  
