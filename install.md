@@ -58,6 +58,6 @@ When running on windows you may get these warnings messages:
 2. package ‘PSCBS’ was built under R version 3.1.2
 3. executing %dopar% sequentially: no parallel backend registered  
 
-###Source code
+###Source code:
 The source code is available on bitbucket:  
 <a href='https://bitbucket.org/n0s3n/rawcopy'>https://bitbucket.org/n0s3n/rawcopy</a>
