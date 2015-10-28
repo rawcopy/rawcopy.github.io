@@ -18,10 +18,10 @@ Rawcopy is an R package for processing of Affymetrix **CytoScan HD**, **CytoScan
 
 ### Qc-plots
 <a href='/images/qc.MB-E-Pri-1384.png'> 
-<img src='/images/qc.MB-E-Pri-1384.png' width="400px">
+<img src='/images/qc.MB-E-Pri-1384.png_small.png' width="400px">
 </a>
 <a href='/images/qc.MB-E-Met-1385.png'> 
-<img src='/images/qc.MB-E-Met-1385.png' width="400px">
+<img src='/images/qc.MB-E-Met-1385.png_small.png' width="400px">
 </a>
 
 
