@@ -32,4 +32,4 @@ Rawcopy is an R package for processing of Affymetrix **CytoScan HD**, **CytoScan
 
 ##Examples
 <a href='/images/genomeexamples.pdf'>Cancer genome examples </a>  
-<a href='/images/distogramexamples.pdf'>Disogram examples </a>
+<a href='/images/distogramexamples.pdf'>Distogram examples </a>
