@@ -16,14 +16,18 @@ library(rawcopy)
 Run samples in a directory:
 
 ```R
-setwd('Path to .CEL-file directory')
-rawcopy()
+rawcopy(CELfiles.or.directory = 'Path to directory')
+```
+
+Run a specfic sample:
+
+```R
+rawcopy(CELfiles.or.directory = 'Path to directory/celFile.CEL')
 ```
 
 Run samples in a directory on multiple cores (~6GB of RAM is required per core):
 
 ```R
-setwd('Path to .CEL-file directory')
-rawcopy(cores=8)
+rawcopy(CELfiles.or.directory = 'Path to directory', cores=8)
 ```
 
