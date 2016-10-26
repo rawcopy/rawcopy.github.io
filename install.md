@@ -12,7 +12,7 @@ Rawcopy is an R-package, download and install the development version of R (r-ba
 <a href='https://cran.r-project.org/'>https://cran.r-project.org/</a> 
 
 
-##### R-code from Bioconductor:
+#### R-code from Bioconductor:
 
 ```R
 source("http://bioconductor.org/biocLite.R")
@@ -31,7 +31,7 @@ install.packages('Path/affxparser_1.38.0.tar.gz',type='source',repos=NULL)
 install.packages('Path/DNAcopy_1.40.0.tar.gz',type='source',repos=NULL)
 ```
 
-##### R-code from cran:
+#### R-code from cran:
 
 ```R
 install.packages(c('foreach','doMC','PSCBS','squash','digest','ape','SDMTools'))
