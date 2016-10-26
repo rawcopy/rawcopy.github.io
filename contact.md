@@ -3,7 +3,7 @@ layout: default
 title:  'Contact'
 ---
 
-#Contact Details
+# Contact Details
 
 <p>
 Markus Mayrhofer<br>
