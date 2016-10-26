@@ -14,7 +14,7 @@ Rawcopy is an R package for processing of Affymetrix **CytoScan HD**, **CytoScan
 **Figures**: several figures per sample and sample set are plotted for the user's convenience, some examples are shown below
 
 
-##Images
+## Images
 
 ### Qc-plots
 <a href='/images/qc.MB-E-Pri-1384.png'> 
@@ -30,6 +30,6 @@ Rawcopy is an R package for processing of Affymetrix **CytoScan HD**, **CytoScan
 <img src='/images/sampleIdentityDistogram.png'  width="400px">
 </a>
 
-##Examples
+## Examples
 <a href='/images/genomeexamples.pdf'>Cancer genome examples </a>  
 <a href='/images/distogramexamples.pdf'>Distogram examples </a>
