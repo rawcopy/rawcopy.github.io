@@ -6,7 +6,8 @@ title:  'install'
 # Installation
 
 ### Rawcopy dependencies:
-### R:
+ 
+##### R:
 Rawcopy is an R-package, download and install the development version of R (r-base-dev) from:  
 <a href='https://cran.r-project.org/'>https://cran.r-project.org/</a> 
 
