@@ -18,6 +18,7 @@ Rawcopy is an R-package, download and install the development version of R (r-ba
 source("http://bioconductor.org/biocLite.R")
 biocLite("affxparser")
 biocLite("DNAcopy")
+biocLite("aroma.light")
 ```
 
 **If** biocLite doesn't work, the Package Source files have to be downloaded and installed manually from:
