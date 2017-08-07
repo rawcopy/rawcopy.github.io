@@ -63,3 +63,8 @@ When running on windows you may get these warnings messages:
 ### Source code:
 The source code is available on bitbucket:  
 <a href='https://bitbucket.org/n0s3n/rawcopy'>https://bitbucket.org/n0s3n/rawcopy</a>
+
+
+### Older versions:
+Older versions of Rawcopy are available at  
+<a href='http://array.medsci.uu.se/R/src/contrib/'>http://array.medsci.uu.se/R/src/contrib/</a>
