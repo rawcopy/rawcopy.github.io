@@ -6,7 +6,7 @@ title:  'FAQ'
 # FAQ 
 
 
-**What is the genome build used in rawcopy package?**
+**What is the genome build used in rawcopy package?**  
 Hg19.
 
  
