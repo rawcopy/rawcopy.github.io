@@ -62,7 +62,7 @@ We do not recommend subtracting the signal of one cancer sample from another - t
  
 
 **I would like to submit my paired normal .CEL files to use as a reference as I believe it will be more informative than the references which I believe come preloaded with Rawcopy.  Could you tell me how I would go about using my paired normal references?**
-*We recommend that you run all CEL files using the built-in references (so just put both tumor and normal files in a folder and run).
+We recommend that you run all CEL files using the built-in references (so just put both tumor and normal files in a folder and run).
 
 It will be better than running paired as
 
