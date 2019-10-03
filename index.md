@@ -5,6 +5,27 @@ title:  'Home'
 
 # Rawcopy
 
+## Update 2019-10-13 
+Running Rawcopy is now easier than ever! Rawcopy is now available on Dockerhub (https://hub.docker.com/r/rawcopy/rawcopy). There is no need to install, just run it either via Docker or Singularity.
+
+``` 
+docker run  -v "Path to .CEL-files":/input:ro \
+            -v "Path to output":/output \
+            -u `id -u`:`id -g` \
+            rawcopy/rawcopy:1.1 \
+            2
+```
+```
+singularity run --bind "Path to .CEL-files":/input \
+                --bind "Path to output":/output \
+                docker://rawcopy/rawcopy:1.1 \
+                2
+```
+1. The first -v/bind is the path to the .CEL-files directory
+1. The second -v/bind is the path to the output directory
+1. The number at the end specifies the number of cores to use
+
+
 ## About
 Rawcopy is an R package for processing of Affymetrix **CytoScan HD**, **CytoScan 750k** and **SNP 6.0** microarrays for copy number analysis. It takes CEL files (raw microarray intensity values) as input. Output consists of:
 
