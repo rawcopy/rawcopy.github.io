@@ -34,6 +34,7 @@ Rawcopy is an R package for processing of Affymetrix **CytoScan HD**, **CytoScan
 **Segments**: genomic segments of unchanging copy number, estimated using the PSCBS package  
 **Figures**: several figures per sample and sample set are plotted for the user's convenience, some examples are shown below
 
+Link to article "Rawcopy: Improved copy number analysis with Affymetrix arrays":  https://www.nature.com/articles/srep36158
 
 ## Images
 
