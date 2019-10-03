@@ -6,7 +6,7 @@ title:  'Home'
 # Rawcopy
 
 ## Update 2019-10-13 
-Running Rawcopy is now easier than ever! Rawcopy is now available on Dockerhub (https://hub.docker.com/r/rawcopy/rawcopy). There is no need to install, just run it either via Docker or Singularity.
+Running Rawcopy is now easier than ever! Rawcopy is now available on Dockerhub (<https://hub.docker.com/r/rawcopy/rawcopy>). There is no need to install, just run it either via Docker or Singularity.
 
 ``` 
 docker run  -v "Path to .CEL-files":/input:ro \
@@ -34,7 +34,7 @@ Rawcopy is an R package for processing of Affymetrix **CytoScan HD**, **CytoScan
 **Segments**: genomic segments of unchanging copy number, estimated using the PSCBS package  
 **Figures**: several figures per sample and sample set are plotted for the user's convenience, some examples are shown below
 
-Link to article "Rawcopy: Improved copy number analysis with Affymetrix arrays":  https://www.nature.com/articles/srep36158
+Link to article "Rawcopy: Improved copy number analysis with Affymetrix arrays":  <https://www.nature.com/articles/srep36158>
 
 ## Images
 
