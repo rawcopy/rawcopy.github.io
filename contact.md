@@ -12,7 +12,7 @@ Markus Mayrhofer<br>
 
 <p>
 Björn Viklund<br>
-<a href="mailto:bjorn.viklund@uppmax.uu.se">bjorn.viklund@medsci.uu.se</a> <br>
+<a href="mailto:bjorn.viklund@uppmax.uu.se">bjorn.viklund@uppmax.uu.se</a> <br>
 
 </p>
 <p>
