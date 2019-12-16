@@ -7,7 +7,7 @@ title:  'Contact'
 
 <p>
 Markus Mayrhofer<br>
-<a href="mailto:markus.mayrhofer@ki.se">markus.mayrhofer@ki.se</a> <br>
+<a href="mailto:markus.mayrhofer@icm.uu.se">markus.mayrhofer@icm.uu.se</a> <br>
 </p>
 
 <p>
