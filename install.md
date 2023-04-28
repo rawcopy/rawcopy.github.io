@@ -11,46 +11,33 @@ title:  'install'
 Rawcopy is an R-package, download and install the development version of R (r-base-dev) from:  
 <a href='https://cran.r-project.org/'>https://cran.r-project.org/</a> 
 
+The installation now require the package `devtools` from cran. On Ubuntu 20.04 it needed the following dependencies:
+
+```bash
+sudo apt install libcurl4-openssl-dev libxml2-dev libfontconfig1-dev libharfbuzz-dev libfribidi-dev libfreetype6-dev libpng-dev libtiff5-dev libjpeg-dev
+```
+
 
 #### R-code from Bioconductor:
 
 ```R
-source("http://bioconductor.org/biocLite.R")
-biocLite("affxparser")
-biocLite("DNAcopy")
-biocLite("aroma.light")
-```
-
-**If** biocLite doesn't work, the Package Source files have to be downloaded and installed manually from:
-
-<a href='http://www.bioconductor.org/packages/release/bioc/html/affxparser.html'>http://www.bioconductor.org/packages/release/bioc/html/affxparser.html</a>  
-<a href='http://www.bioconductor.org/packages/release/bioc/html/DNAcopy.html'>http://www.bioconductor.org/packages/release/bioc/html/DNAcopy.html</a>
-
-
-```R
-install.packages('Path/affxparser_1.38.0.tar.gz',type='source',repos=NULL)
-install.packages('Path/DNAcopy_1.40.0.tar.gz',type='source',repos=NULL)
+install.packages("BiocManager")
+BiocManager::install()
+BiocManager::install(c("DNAcopy", "affxparser",'aroma.light'))
 ```
 
 #### R-code from cran:
 
 ```R
-install.packages(c('foreach','doMC','PSCBS','squash','digest','ape','SDMTools'))
+install.packages(c('foreach','doMC','PSCBS','squash','digest','ape', 'devtools'))
+install.packages('https://cran.r-project.org/src/contrib/Archive/SDMTools/SDMTools_1.1-221.2.tar.gz')
 ```
-
-**If** PSCBS doesn't work, the package source files have to be downloaded and installed manually from:  
-<a href='https://cran.r-project.org/src/contrib/Archive/PSCBS/PSCBS_0.43.0.tar.gz'>https://cran.r-project.org/src/contrib/Archive/PSCBS/PSCBS_0.43.0.tar.gz</a> 
-
-```R
-install.packages(c('R.utils','matrixStats','R.cache'))
-install.packages('Path/PSCBS_0.43.0.tar.gz',repos=NULL,type='source')
-```
-
 
 #### Rawcopy installation:
 
 ```R
-install.packages('rawcopy',repos='http://array.medsci.uu.se/R',type='source')
+library(devtools)
+install_bitbucket('n0s3n/rawcopy/rawcopyPackage')
 ```
 
 
@@ -63,8 +50,3 @@ When running on windows you may get these warnings messages:
 ### Source code:
 The source code is available on bitbucket:  
 <a href='https://bitbucket.org/n0s3n/rawcopy'>https://bitbucket.org/n0s3n/rawcopy</a>
-
-
-### Older versions:
-Older versions of Rawcopy are available at  
-<a href='http://array.medsci.uu.se/R/src/contrib/'>http://array.medsci.uu.se/R/src/contrib/</a>
