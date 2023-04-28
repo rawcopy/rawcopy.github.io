@@ -11,7 +11,7 @@ title:  'install'
 Rawcopy is an R-package, download and install the development version of R (r-base-dev) from:  
 <a href='https://cran.r-project.org/'>https://cran.r-project.org/</a> 
 
-The installation now require the package `devtools` from cran. On Ubuntu 20.04 it needed the following dependencies:
+The installation now require the package `devtools` from cran. On Ubuntu 20.04 and R 4.3.0 it needed the following dependencies:
 
 ```bash
 sudo apt install libcurl4-openssl-dev libxml2-dev libfontconfig1-dev libharfbuzz-dev libfribidi-dev libfreetype6-dev libpng-dev libtiff5-dev libjpeg-dev
@@ -30,7 +30,7 @@ BiocManager::install(c("DNAcopy", "affxparser",'aroma.light'))
 
 ```R
 install.packages(c('foreach','doMC','PSCBS','squash','digest','ape', 'devtools'))
-install.packages('https://cran.r-project.org/src/contrib/Archive/SDMTools/SDMTools_1.1-221.2.tar.gz')
+install.packages('https://cran.r-project.org/src/contrib/Archive/SDMTools/SDMTools_1.1-221.2.tar.gz', type='source', repos=NULL)
 ```
 
 #### Rawcopy installation:
